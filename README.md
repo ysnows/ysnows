@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋 Hi I am Ysnows 👋
 
 <!--
 **ysnows/ysnows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🤔 the progross of learning awesome things is awesome! 🤔 
+
+
 
 I'm learing english
 
