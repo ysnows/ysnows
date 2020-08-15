@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 
 🤔 the progross of learning awesome things is awesome! 🤔 
 
+and ...
 
 
-I'm learing english
+  I'm learing english
 
-I'm learing algorithms
+  I'm learing algorithms
 
-I'm learing machine learning
+  I'm learing machine learning
