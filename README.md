@@ -6,13 +6,11 @@
 
 and ...
 
-```
-  I'm learing english
 
-  I'm learing algorithms
+I'm an indie develper
+My products:
+  - [enconvo](https://enconvo.com) : seamless ai assistant
 
-  I'm learing machine learning
-```
 
 
 
