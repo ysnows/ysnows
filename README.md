@@ -4,10 +4,6 @@
 
 🤔 the progress of learning awesome things is awesome! 🤔 
 
-and ...
-
-
-I'm an indie develper
 
 
 
