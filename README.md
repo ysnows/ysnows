@@ -9,9 +9,5 @@ and ...
 
 I'm an indie develper
 
-My products:
-  - [enconvo](https://enconvo.com) : seamless ai assistant
-
-
 
 
